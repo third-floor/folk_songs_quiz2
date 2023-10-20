@@ -6,6 +6,16 @@
     padding: 20px;
 }
 
+.quiz-content {
+    display: flex;
+    gap: 20px;
+}
+
+.lyrics {
+    max-width: 300px;
+    font-size: 16px;
+}
+
 #quiz-image {
     width: 420px;
     height: 420px;
